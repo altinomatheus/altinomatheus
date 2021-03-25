@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @altinomatheus;
+- 👀 I’m interested in going deeper into the various current languages, both in back and front <>;
+- 🌱 I’m currently learning html, css e JS, the tenderness trio; e
+- 💞️ I’m looking to collaborate with the open source community.
