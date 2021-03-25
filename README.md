@@ -2,3 +2,4 @@
 - 👀 Estou interessado em me aprofundar em diversas linguagens de programação, tanto no back-end quanto no front-end <>;
 - 🌱 Atualmente, estou aprendendo html, css e JS, o trio ternura kkkkk; e
 - 💞️ Estou procurando colaborar com a comunidade open source.
+- contato: https://www.linkedin.com/in/matheusaltino1/
