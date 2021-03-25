@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @altinomatheus;
-- 👀 I’m interested in going deeper into the various current of programing languages, both in back-end and front-end <>;
-- 🌱 I’m currently learning html, css e JS, the tenderness trio; e
-- 💞️ I’m looking to collaborate with the open source community.
+- 👋 Olá, eu sou o @altinomatheus;
+- 👀 Estou interessado em me aprofundar em diversas linguagens de programação, tanto no back-end quanto no front-end <>;
+- 🌱 Atualmente, estou aprendendo html, css e JS, o trio ternura kkkkk; e
+- 💞️ Estou procurando colaborar com a comunidade open source.
